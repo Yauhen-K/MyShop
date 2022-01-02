@@ -1,0 +1,15 @@
+<root>
+    <products>
+        <product>
+            <type>bread</type>
+            <amount>10</amount>
+            <cost>200</cost>
+        </product>
+
+        <product>
+            <type>butter</type>
+            <amount>15</amount>
+            <cost>300</cost>
+        </product>
+    </products>
+</root>
